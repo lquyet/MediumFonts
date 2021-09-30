@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "Vietnamese fonts for Medium",
+    "description": "Replacing non-vietnamese fonts on Medium with the supported ones",
+    "version": "1.0",
+    "author": "QuyetLM",
+    "icons": {
+        "195": "assets/icons/195.png"
+    },
+    "background": {
+        "scripts": ["assets/background.js"]
+    },
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "webRequest",
+        "webRequestBlocking",
+        "http://*/",
+        "https://*/"
+    ],
+    "web_accessible_resources": [
+        "assets/css/*"
+    ]
+}
