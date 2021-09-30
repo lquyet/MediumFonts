@@ -3,7 +3,7 @@
     "name": "Vietnamese fonts for Medium",
     "description": "Replacing non-vietnamese fonts on Medium with the supported ones",
     "version": "1.0",
-    "author": "QuyetLM",
+    "author": "QuyetLM and 12bit.vn",
     "icons": {
         "195": "assets/icons/195.png"
     },
